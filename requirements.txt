@@ -1,0 +1,4 @@
+pygame==2.6.0
+numpy==2.0.0
+pywin32==306
+perlin-noise==1.12

@@ -1,0 +1,12 @@
+{
+  "type": "shaped",
+  "pattern": [
+    [68,null,68],
+    [68,932,68],
+    [68,null,68]
+  ],
+  "result": {
+    "id": 2692,
+    "count": 2
+  }
+}
